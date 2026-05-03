@@ -1,6 +1,6 @@
 # Hi, I'm Medha
 
-Computer Science student with an interest in systems, networking, and game development.
+Computer Science student with an interest in systems, networking, web devolopment and game development.
 
 ## About
 
