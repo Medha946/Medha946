@@ -13,7 +13,7 @@ Computer Science student with an interest in systems, networking, web devolopmen
 * WarSpaceGame – 3D space shooter (work in progress)
 * Microplastic Detection System – hardware-oriented project (details limited)
 * Network/Event Monitoring (academic project)
-* Mathematical Image Filtering & Processing – basic image processing using numerical methods
+
 
 ## Tech
 
