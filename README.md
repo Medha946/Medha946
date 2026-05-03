@@ -17,7 +17,7 @@ Computer Science student with an interest in systems, networking, web devolopmen
 
 ## Tech
 
-Godot, GDScript, Python, C, C++, Numpy (basics) , Networking fundamentals
+Godot, GDScript, Python, C, C++, Web Devolpoment, Numpy (basics) , Networking fundamentals
 
 ## Notes
 
